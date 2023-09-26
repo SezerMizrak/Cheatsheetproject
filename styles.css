@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  
+}
+header{
+  border-bottom: 2px solid green;
+}
+table, td, th{
+  border: 3px dotted yellowgreen;
+}
+main{
+  border-bottom: 2px solid green;
+}
+
